@@ -17,3 +17,12 @@ Disadvantages:
 1.It has problems with licensing and legality in different countries.
 2.Children might ge addicted to it and start gambling at a very young age.
 3.Loss of existing amount can happen in case of bad luck.
+
+![Screenshot (43)](https://user-images.githubusercontent.com/122373873/211627482-dfe222d3-bc02-47e4-8ade-a62eae830c1f.png)
+
+
+![Screenshot (41)](https://user-images.githubusercontent.com/122373873/211627520-fce1716f-8214-47f6-b49c-1014661cb8a0.png)
+
+
+![Screenshot (42)](https://user-images.githubusercontent.com/122373873/211627560-9271026f-68e6-4893-843c-636c80aa3d54.png)
+
